@@ -44,8 +44,7 @@ It’s designed to be lightweight, fast, and customizable.
 ### 🔹 1. Deploy on **Heroku** (One Click)
 Click this button to deploy instantly on **Heroku**:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/hbbb02219-hue/Ra)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAloneTeam/AloneMusic)
 
 - **Update System and Install Dependencies**:  
   ```bash
